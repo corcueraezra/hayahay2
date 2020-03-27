@@ -1,0 +1,13 @@
+Jeell@3git
+git config --global user.email "corcueraezra.ocd5@gmail.com"
+
+git init project1
+cd project1
+
+/*create file1.txt
+
+git add file1.txt
+git commit -m"My first commit"
+
+git checkout -b <my branch name>
+git branch
